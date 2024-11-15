@@ -60,11 +60,10 @@ To get started with the project, follow the steps below:
     yarn install
     ```
 
-### Running the Development Server
+### Running the Project
 
 Once the dependencies are installed, you can run the application locally:
 
 ```bash
-npm run dev
-# or
-yarn dev
+npm start
+
