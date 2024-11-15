@@ -22,13 +22,13 @@ This project is being developed for **DevelopsToday** as part of the selection p
 ### Images
 
 **Home**
-![Home](/images/home.png)
+![Home](./public/images/home.png)
 
 **Results**
-![Home](/images/results.png)
+![Results](./public/images/results.png)
 
 **NotFound**
-![Home](/images/notFound.png)
+![Not Found](./public/images/notFound.png)
 
 ## Getting Started
 
