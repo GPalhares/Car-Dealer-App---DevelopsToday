@@ -11,13 +11,15 @@ This project is being developed for **DevelopsToday** as part of the selection p
 - Another Search Button
 - **Client-side rendering** on the Home page for a smooth, interactive experience.
 - **Server-side rendering** on the Results page for better SEO and performance.
+- **Code quality tools**: Includes **ESLint** and **Prettier** configurations for clean and consistent code.
 
 ## Technologies Used
 
 - **Next.js** (v15.0.3)
 - **React**
 - **Tailwind CSS**
-
+- **ESLint** - For identifying and fixing code issues.
+- **Prettier** - For code formatting and consistency.
 
 ### Images
 
@@ -66,4 +68,5 @@ Once the dependencies are installed, you can run the application locally:
 
 ```bash
 npm start
-
+# or
+yarn start
