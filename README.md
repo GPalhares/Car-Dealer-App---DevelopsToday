@@ -45,13 +45,13 @@ To get started with the project, follow the steps below:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/car-model-searcher.git
+    git@github.com:GPalhares/Car-Dealer-App---DevelopsToday.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd car-model-searcher
+    cd car-dealer-app
     ```
 
 3. Install the dependencies:
